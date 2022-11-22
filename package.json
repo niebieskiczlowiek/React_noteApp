@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^19.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "notes_express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niebieskiczlowiek/notesApp_express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niebieskiczlowiek/notesApp_express/issues"
+  },
+  "homepage": "https://github.com/niebieskiczlowiek/notesApp_express#readme",
+  "description": ""
+}
